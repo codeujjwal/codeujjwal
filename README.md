@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeujjwal" alt="codeujjwal" /></a> </p>
 
-- 🔭 I’m currently working on **Uactiv**
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [codeujjwal.tech](codeujjwal.tech)
