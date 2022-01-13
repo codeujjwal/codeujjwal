@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [codeujjwal.tech](codeujjwal.tech)
+- 👨‍💻 All of my projects are available at [codeujjwal.tech](codeujjwal.netlify.app)
 
 - 💬 Ask me about **Full stack Developement**
 
