@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [codeujjwal.netlify.app](codeujjwal.netlify.app)
+- 👨‍💻 All of my projects are available at [https://codeujjwal.tech](https://codeujjwal.tech)
 
 - 💬 Ask me about **Full stack Developement**
 
 - 📫 How to reach me **mr.sharma.ujjwal@gmail.com**
 
-- 📄 Know about my experiences [https://codeujjwal.tech](https://codeujjwal.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
