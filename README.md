@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mr.sharma.ujjwal@gmail.com**
 
-- 📄 Know about my experiences [https://codeujjwal.tech/static/media/resume.f5f4107b.pdf](https://codeujjwal.tech/static/media/resume.f5f4107b.pdf)
+- 📄 Know about my experiences [https://codeujjwal.tech](https://codeujjwal.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
