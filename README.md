@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working with **MERN stack**
 
 - 👨‍💻 All of my projects are available at [codeujjwal](https://codeujjwal.in)
 
